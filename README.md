@@ -1,4 +1,13 @@
-# yt_to_mp3_player
+# yt_to_webm_converter
 
-Practical youtube to mp3 converter with an integrated player. 
+## About
+Practical youtube video converter to webm audio file. 
+
+## Set-up
+- pip3 install -requirements.txt
+
+- python3 main.py
  
+- Paste the youtube video link 
+
+- name the output file (without the extension)
